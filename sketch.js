@@ -1,4 +1,3 @@
-
 var x=0;
 var y=0
 var rad=200;
@@ -11,7 +10,6 @@ function setup() {
   stroke(255);
   background(20);
 }
-
 function draw() {
   //background(20);
   x=rad*sin(a);
